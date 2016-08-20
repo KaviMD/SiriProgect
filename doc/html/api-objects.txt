@@ -1,0 +1,14 @@
+pyespeak	pyespeak-module.html
+pyespeak.VOICEDIR	pyespeak-module.html#VOICEDIR
+pyespeak.__package__	pyespeak-module.html#__package__
+pyespeak.ESPEAKCMD	pyespeak-module.html#ESPEAKCMD
+pyespeak.eSpeak	pyespeak.eSpeak-class.html
+pyespeak.eSpeak.__del__	pyespeak.eSpeak-class.html#__del__
+pyespeak.eSpeak.terminate	pyespeak.eSpeak-class.html#terminate
+pyespeak.eSpeak.reopen	pyespeak.eSpeak-class.html#reopen
+pyespeak.eSpeak.say	pyespeak.eSpeak-class.html#say
+pyespeak.eSpeak.close	pyespeak.eSpeak-class.html#close
+pyespeak.eSpeak.open	pyespeak.eSpeak-class.html#open
+pyespeak.eSpeak.__init__	pyespeak.eSpeak-class.html#__init__
+pyespeak.eSpeakException	pyespeak.eSpeakException-class.html
+pyespeak.eSpeakExceptionClosed	pyespeak.eSpeakExceptionClosed-class.html
